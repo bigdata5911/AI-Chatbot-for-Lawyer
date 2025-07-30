@@ -260,7 +260,7 @@ Raw PDF Document
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/danieladdisonorg/AI-Chatbot-for-Lawyer.git
+git clone https://github.com/bigdata5911/AI-Chatbot-for-Lawyer.git
 ```
 
 2. Navigate to the project directory:
@@ -448,9 +448,9 @@ This AI chatbot is designed to assist legal professionals and should not be cons
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/danieladdisonorg/AI-Chatbot-for-Lawyer/wiki)
-- **Issues**: [GitHub Issues](https://github.com/danieladdisonorg/AI-Chatbot-for-Lawyer/issues)
-- **Email**: support@legalchatbot.com
+- **Documentation**: [Wiki](https://github.com/bigdata5911/AI-Chatbot-for-Lawyer/wiki)
+- **Issues**: [GitHub Issues](https://github.com/bigdata5911/AI-Chatbot-for-Lawyer/issues)
+- **Email**: worker.opentext@gmail.com
 
 
 ## 🗺️ Roadmap
@@ -462,10 +462,6 @@ This AI chatbot is designed to assist legal professionals and should not be cons
 - [ ] Multi-tenant architecture
 - [ ] Advanced analytics dashboard
 
-## 👥 Authors
-
-- **Daniel Addison** - *Initial work* - [@danieladdisonorg](https://github.com/danieladdisonorg)
-
 ## 🙏 Acknowledgments
 
 - OpenAI for GPT API
@@ -474,5 +470,3 @@ This AI chatbot is designed to assist legal professionals and should not be cons
 - Open source contributors
 
 ---
-
-**Built with ❤️ for the legal community**
